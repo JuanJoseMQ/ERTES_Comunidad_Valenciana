@@ -7,15 +7,15 @@ en la comunidad valenciana independientemente de su sede social.
 Al ser un trabajo individual y puramente académico, fue realizado en Colab.
 Se realiza una limpieza previa de los datos, eligiendo las variables a utilizar en este caso:
 
-FECHA_SOLICITUD --> Fecha generada el dia de la solicitud
-PROVINCIA --> Provincia en la que la empresa tiene su sede social.
-MUNICIPIO --> Municipio en el que la empresa tiene su sede social.
-SECTOR --> Sector al que pertenecen las empresas
-CAUSA --> Causa de la solicitud del expediente de regulación
-TOTAL_CON_TRAB_SUS --> Total de trabajadores con concesión de suspensión
-TRAB_HOMBRES_SUS --> Hombres para los cuales se ha solicitado suspensión
-TRAB_MUJERES_SUS --> Mujeres para las cuales se ha solicitado suspensión
-TRAB_SINDET_SUS --> Personas de género indeterminado para las cuales se ha solicitado suspensión
+- FECHA_SOLICITUD --> Fecha generada el dia de la solicitud
+- PROVINCIA --> Provincia en la que la empresa tiene su sede social.
+- MUNICIPIO --> Municipio en el que la empresa tiene su sede social.
+- SECTOR --> Sector al que pertenecen las empresas
+- CAUSA --> Causa de la solicitud del expediente de regulación
+- TOTAL_CON_TRAB_SUS --> Total de trabajadores con concesión de suspensión
+- TRAB_HOMBRES_SUS --> Hombres para los cuales se ha solicitado suspensión
+- TRAB_MUJERES_SUS --> Mujeres para las cuales se ha solicitado suspensión
+- TRAB_SINDET_SUS --> Personas de género indeterminado para las cuales se ha solicitado suspensión
 
 Sobre estos datos se realizan diferentes análisis, como el impacto sobre los sectores y cada tipo de género, el motivo por el 
 cual se ha solicitado la suspension, o que provincia ha resultado mas afectada, entre otros detalles.
