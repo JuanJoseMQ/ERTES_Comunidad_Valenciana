@@ -29,5 +29,9 @@ el impacto de los Ertes sobre cada sector.
 Ademas son muy interesantes los filtros de año y motivo de suspension en uno 
 y filtro de año y sector afectado en otro.
 
+IMPORTANTE DESTACAR QUE SI EL NOTEBOOK NO ES DESCARGADO, NO SE PUEDEN VISUALIZAR LOS MAPAS
+NI LOS DATAFRAME CON MAPA DE ESCALAS DE COLOR.
+
+Les invito a probarlos, espero que sean de su agrado.
 Un saludo.
 Juanjo.
